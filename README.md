@@ -1,6 +1,6 @@
 ## Ciudadela Challenge
 
-Challenge propuesto por Ciudadela, consta en realizar un índice de riesgo con una API de asteroides de la nasa. La información más relevante fue mapeada y mostrada a través de una tabla de datos, la cual consta de un paginado, con el cual puede elegir el número de elementos que desea ver, además se pueden ordenar alfabéticamente los datos mostrados en la tabla.
+Challenge propuesto por Ciudadela, consta en realizar un índice de riesgo con una API de asteroides de la nasa. La información más relevante fue mapeada y mostrada a través de una tabla de datos, la cual consta de un paginado, con el cual puede elegir el número de elementos que desea ver, además se pueden ordenar alfabéticamente y de mayor a menor los datos mostrados en la tabla.
 
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

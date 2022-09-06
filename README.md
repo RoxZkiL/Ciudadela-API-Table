@@ -2,6 +2,8 @@
 
 Challenge propuesto por Ciudadela, consta en realizar un índice de riesgo con una API de asteroides de la nasa. La información más relevante fue mapeada y mostrada a través de una tabla de datos, la cual consta de un paginado, con el cual puede elegir el número de elementos que desea ver, además se pueden ordenar alfabéticamente y de mayor a menor los datos mostrados en la tabla.
 
+Usos: Ordenado por orden alfabetico, paginado.
+
 Tenologías utilizadas: NextJS, ChakraUI, React-Table/Paginated.
 
 ## Getting Started
